@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: Clases.TitularTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in Clases.TitularTest
+Clases.TitularTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.RuntimeException: 
+Uncompilable code - cannot find symbol
+  symbol:   variable t
+  location: class Clases.TitularTest
+	at Clases.TitularTest.setUpClass(TitularTest.java:1)
+
